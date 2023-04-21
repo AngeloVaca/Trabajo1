@@ -15,6 +15,16 @@ public class varios {
      */
     public static void main(String[] args) {
         System.out.println("Jordi GAY");
+        System.out.println("Jordi GAY");
+        System.out.println("Jordi GAY");
+        System.out.println("Jordi GAY");
+        System.out.println("Jordi GAY");
+        System.out.println("Jordi GAY");
+        System.out.println("Jordi GAY");
+        System.out.println("Jordi GAY");
+        System.out.println("Jordi GAY");
+        System.out.println("Jordi GAY");
+        System.out.println("Jordi GAY");
     }
     
 }
